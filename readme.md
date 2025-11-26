@@ -29,10 +29,9 @@ Meu objetivo é me tornar um desenvolvedor completo e preparado para o mercado.
 
 ## 📊 Minhas estatísticas no GitHub
 
-<a href="https://github.com/xmiguelps">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xmiguelps&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmiguelps&layout=compact&theme=tokyonight"/>
-</a>
+<img src="https://github-readme-stats.vercel.sh/api?username=xmiguelps&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.sh/api/top-langs/?username=xmiguelps&layout=compact&theme=tokyonight"/>
 
 ## Sobre Mim
 - Tenho 17 anos e estudo Desenvolvimento de Sistemas  
