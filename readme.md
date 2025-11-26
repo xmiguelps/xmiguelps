@@ -30,11 +30,11 @@ Meu objetivo é me tornar um desenvolvedor completo e preparado para o mercado.
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=xmiguelps&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmiguelps&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
+  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xmiguelps&theme=github"/>
+  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xmiguelps&theme=github"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xmiguelps&theme=ayu_mirage"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xmiguelps&theme=github"/>
 </div>
 
 
