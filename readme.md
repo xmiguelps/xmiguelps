@@ -29,7 +29,7 @@ Meu objetivo é me tornar um desenvolvedor completo e preparado para o mercado.
 
 ## 📊 Minhas estatísticas no GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmiguelps)](https://github.com/anuraghazra/github-readme-stats)
+![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xmiguelps&show_icons=true&theme=tokyonight)
 
 
 ## Sobre Mim
