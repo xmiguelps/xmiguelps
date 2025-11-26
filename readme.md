@@ -37,7 +37,11 @@ Meu objetivo é me tornar um desenvolvedor completo e preparado para o mercado.
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xmiguelps&theme=github"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/xmiguelps/GAME-MANIA/output/snake.svg" alt="Snake animation" />
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xmiguelps/xmiguelps/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xmiguelps/xmiguelps/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xmiguelps/xmiguelps/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## Sobre Mim
 - Tenho 17 anos e estudo Desenvolvimento de Sistemas  
