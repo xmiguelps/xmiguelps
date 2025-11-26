@@ -29,7 +29,8 @@ Meu objetivo é me tornar um desenvolvedor completo e preparado para o mercado.
 
 ## 📊 Minhas estatísticas no GitHub
 
-<img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api?username=xmiguelps&show_icons=true&theme=tokyonight" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmiguelps&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 ## Sobre Mim
 - Tenho 17 anos e estudo Desenvolvimento de Sistemas  
