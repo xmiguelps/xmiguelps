@@ -1,7 +1,7 @@
 ## Eu sou Miguel Passos, Desenvolvedor Junior | Front-End
-Sou estudante de desenvolvimento e estou sempre buscando evoluir, aprender novas técnicas e trabalhar em projetos que me desafiam.
+Sou estudante de Desenvolvimento de Sistemas e estou sempre buscando evoluir, aprender novas técnicas e trabalhar em projetos que me desafiam.
 Meu objetivo é me tornar um desenvolvedor completo e preparado para o mercado.
-## Tecnologias que estudo e utilizo
+## Tecnologias que Utilizo e Estudo 
 <div display="flex">
   <div>
     <p><strong>Front-End:</strong></p>
