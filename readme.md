@@ -11,13 +11,19 @@ Meu objetivo é me tornar um desenvolvedor completo e preparado para o mercado.
   </div>
   <div>
     <p><strong>Back-end:</strong></p>
-    <img height="64" width="64" src="imgs/php.png" alt="Miguel-PHP">
+    <div display="flex" flex-flow="column">
+      <img height="64" width="64" src="imgs/php.png" alt="Miguel-PHP">
+      <p >Basico</p>
+    </div>
   </div>
-  <div>
+  <div width="500px">
     <p><strong>Outros:</strong></p>
     <img height="64" width="64" src="imgs/git.png" alt="Miguel-Git">
     <img height="64" width="64" src="imgs/github.png" alt="Miguel-Github">
-    <img height="64" width="64" src="imgs/python.png" alt="Miguel-Pyhon">
+    <div display="flex" flex-flow="column">
+      <img height="64" width="64" src="imgs/python.png" alt="Miguel-Python">
+      <p>Basico</p>
+    </div>
   </div>
 </div>
 
