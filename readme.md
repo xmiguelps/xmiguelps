@@ -29,18 +29,27 @@ Meu objetivo é me tornar um desenvolvedor completo e preparado para o mercado.
 
 ## 📊 Minhas estatísticas no GitHub
 
-<div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xmiguelps&theme=github"/>
-  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xmiguelps&theme=github"/>
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xmiguelps&theme=github"/>
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=Xmiguelps&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<picture align="center">
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmiguelps&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xmiguelps/xmiguelps/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xmiguelps/xmiguelps/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xmiguelps/xmiguelps/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xmiguelps/xmiguelps/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## Sobre Mim
