@@ -32,6 +32,7 @@ Meu objetivo é me tornar um desenvolvedor completo e preparado para o mercado.
 - Boas práticas de Front-End
 - Angular
 - JQuery
+- Interação com API
 
 ## 📊 Minhas estatísticas no GitHub
 
