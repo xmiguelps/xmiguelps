@@ -41,4 +41,4 @@ Meu objetivo é me tornar um desenvolvedor completo e preparado para o mercado.
 - Busco evoluir todos os dias como desenvolvedor, criando projetos e estudando novas tecnologias
 
 ## Contato
-- Email: gibertoni.passso@gmail.com
+- Email: gibertoni.passos@gmail.com
