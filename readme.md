@@ -40,5 +40,11 @@ Meu objetivo é me tornar um desenvolvedor completo e preparado para o mercado.
 - Gosto de aprender diferentes áreas da programação para descobrir onde posso me especializar  
 - Busco evoluir todos os dias como desenvolvedor, criando projetos e estudando novas tecnologias
 
+## 📊 Estatisticas
+<div display="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=xmiguelps&theme=default&show_icons=true&hide_border=true&count_private=true" alt="xmiguelps's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmiguelps&theme=default&show_icons=true&hide_border=true&layout=compact" alt="xmiguelps's GitHub Stats" />
+</div>
+
 ## Contato
 - Email: gibertoni.passos@gmail.com
