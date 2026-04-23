@@ -13,7 +13,7 @@ Meu objetivo é me tornar um desenvolvedor completo e preparado para o mercado.
   </div>
   <div>
     <p><strong>Back-end:</strong></p>
-    <img height="64" width="64" src="imgs/CSharp.png" alt="Miguel-C#">
+    <img height="64" width="64" src="imgs/CSharp-icon.png" alt="Miguel-C#">
     <img height="64" width="64" src="imgs/Asp.net-icon.png" alt="Miguel-Asp.net">
     <div display="flex" flex-flow="column">
       <img height="64" width="64" src="imgs/php.png" alt="Miguel-PHP">
