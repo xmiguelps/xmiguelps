@@ -5,16 +5,16 @@ Meu objetivo é me tornar um desenvolvedor completo e preparado para o mercado.
 <div display="flex">
   <div>
     <p><strong>Front-End:</strong></p>
-    <img height="64" width="64" src="imgs/ts.png" alt="Miguel-TS">
-    <img height="64" width="64" src="imgs/react.png" alt="Miguel-React">
+    <img height="64" width="64" src="imgs/typescript-icon.png" alt="Miguel-TS">
+    <img height="64" width="64" src="imgs/React-icon.png" alt="Miguel-React">
     <img height="64" width="64" src="imgs/js.png" alt="Miguel-JS">
     <img height="64" width="64" src="imgs/html.png" alt="Miguel-HTML5">
     <img height="64" width="64" src="imgs/css.png" alt="Miguel-CSS3">
   </div>
   <div>
     <p><strong>Back-end:</strong></p>
-    <img height="64" width="64" src="imgs/c#.png" alt="Miguel-C#">
-    <img height="64" width="64" src="imgs/asp.net.png" alt="Miguel-Asp.net">
+    <img height="64" width="64" src="imgs/CSharp.png" alt="Miguel-C#">
+    <img height="64" width="64" src="imgs/Asp.net-icon.png" alt="Miguel-Asp.net">
     <div display="flex" flex-flow="column">
       <img height="64" width="64" src="imgs/php.png" alt="Miguel-PHP">
       <p >Basico</p>
