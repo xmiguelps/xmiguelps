@@ -31,18 +31,11 @@ Meu objetivo é me tornar um desenvolvedor completo e preparado para o mercado.
   </div>
 </div>
 
-## 📚 Atualmente estudando
-- JavaScript avançado
-- Boas práticas de Front-End
-- Angular
-- JQuery
-- Interação com API
-
 ## Sobre Mim
-- Tenho 17 anos e estudo Desenvolvimento de Sistemas  
-- Sou apaixonado por tecnologia e programação no geral  
-- Gosto de aprender diferentes áreas da programação para descobrir onde posso me especializar  
-- Busco evoluir todos os dias como desenvolvedor, criando projetos e estudando novas tecnologias
+- Tenho 18 anos e faço Curso de Desenvolvimento de Sistemas no Senai.
+- Sou apaixonado por tecnologia e programação no geral.
+- Gosto de aprender diferentes áreas da programação para conseguir fazer o maximo de coisas possiveis com a tecnologia.  
+- Busco evoluir todos os dias como desenvolvedor, criando projetos e estudando novas tecnologias.
 
 ## Contato
 - Email: gibertoni.passos@gmail.com
